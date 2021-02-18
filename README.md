@@ -13,11 +13,20 @@ Since each kit contains a unique set of sentences, it is possible to combine the
 
 ## Source sentences (`core`)
 
-Source sentences are in English, French and Spanish from the [Tatoeba repository](https://tatoeba.org). Sentence selection algorithm ensures representation of most frequently used words in the language. For more information, please refer to [corepus-gen repository](https://github.com/translatorswb/corepus-gen). `etc` directories contain sentence id's as used in the Tatoeba corpus. 
+Sentences in `core` directory are in English, French and Spanish and are sourced from the [Tatoeba repository](https://tatoeba.org). Sentence selection algorithm ensures representation of most frequently used words in the language. For more information, please refer to [corepus-gen repository](https://github.com/translatorswb/corepus-gen). `etc` directories contain sentence id's as used in the Tatoeba corpus. 
 
 ## Parallel corpora (`parallel`)
 
-Translations of the kits are performed by professionals and volunteers of TWB's translator community. 
+Translations of the kits are performed by professionals and volunteers of TWB's translator community. A complete list of translated sentences are:
+
+| Language | Pair | # Segments | Source |
+|------|--------|--------|--------|
+| Hausa | English | 15,000 | Tatoeba |
+| Kanuri | English | 5,000 | Tatoeba |
+| Nande | French | 15,000 | Tatoeba |
+| Rohingya | English | 5,000 | Tatoeba |
+| Swahili (Coastal) | English | 5,000 | Tatoeba |
+| Swahili (Congolese) | French | 25,302 | Tatoeba |
 
 ## Reference
 
