@@ -41,6 +41,7 @@ Alp Öktem, Muhannad Albayk Jaam, Eric DeLuca, Grace Tang
 Gamayun –  Language Technology for Humanitarian Response
 In: 2020 IEEE Global Humanitarian Technology Conference (GHTC)
 2020 October 29 - November 1; Virtual.
+Link: https://ieeexplore.ieee.org/document/9342939
 ```
 
 
