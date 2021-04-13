@@ -1,0 +1,16 @@
+=Gamayun Minikit v2=
+Size 5000
+
+.English.
+Vocab size: 7427
+#Covered: 4753 (95.06%)
+#Missing: 247 (4.94%)
+Avg. words: 8.6958
+Total words: 43479
+
+.French.
+Vocab size: 9362
+#Covered: 4765 (95.30%)
+#Missing: 235 (4.70%)
+Avg. words: 9.4114
+Total words: 47057
