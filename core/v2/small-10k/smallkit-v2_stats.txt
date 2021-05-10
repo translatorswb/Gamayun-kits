@@ -1,0 +1,16 @@
+=Gamayun Small kit v2=
+Size 10000
+
+.English.
+Vocab size: 10147
+#Covered: 4635 (92.70%)
+#Missing: 365 (7.30%)
+Avg. words: 10.9603
+Total words: 109603
+
+.French.
+Vocab size: 13293
+#Covered: 4653 (93.06%)
+#Missing: 347 (6.94%)
+Avg. words: 11.5352
+Total words: 115352

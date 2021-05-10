@@ -1,0 +1,16 @@
+=Gamayun Medium kit v2=
+Size 15000
+
+.English.
+Vocab size: 11762
+#Covered: 4517 (90.34%)
+#Missing: 483 (9.66%)
+Avg. words: 11.489066666666666
+Total words: 172336
+
+.French.
+Vocab size: 15629
+#Covered: 4566 (91.32%)
+#Missing: 434 (8.68%)
+Avg. words: 12.004266666666666
+Total words: 180064

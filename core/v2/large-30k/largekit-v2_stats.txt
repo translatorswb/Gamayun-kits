@@ -1,0 +1,16 @@
+=Gamayun Largekit v2=
+Size 30000
+
+.English.
+Vocab size: 12291
+#Covered: 4411 (88.22%)
+#Missing: 589 (11.78%)
+Avg. words: 8.4931
+Total words: 254793
+
+.French.
+Vocab size: 17235
+#Covered: 4488 (89.76%)
+#Missing: 512 (10.24%)
+Avg. words: 8.970333333333333
+Total words: 269110
